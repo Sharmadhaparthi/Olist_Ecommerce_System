@@ -41,7 +41,30 @@ Stakeholders
 
 **DASHBOARDS**
 
+<img width="1353" alt="Screenshot 2022-05-05 at 8 39 16 PM" src="https://user-images.githubusercontent.com/91433792/167048998-20c12b60-a79f-45b8-8071-dd37bca128fc.png">
+
+
+<img width="1353" alt="Screenshot 2022-05-05 at 8 39 38 PM" src="https://user-images.githubusercontent.com/91433792/167049042-db1b4a9c-2210-443d-a322-5601cf567b3b.png">
+
+
+<img width="1353" alt="Screenshot 2022-05-05 at 8 41 31 PM" src="https://user-images.githubusercontent.com/91433792/167049076-3698efd0-ac5e-4af2-b1fc-a4f7bd4c8e8c.png">
+
+<img width="1353" alt="Screenshot 2022-05-05 at 8 39 38 PM" src="https://user-images.githubusercontent.com/91433792/167049042-db1b4a9c-2210-443d-a322-5601cf567b3b.png">
+
+
+<img width="1353" alt="Screenshot 2022-05-05 at 8 42 20 PM" src="https://user-images.githubusercontent.com/91433792/167049087-bf8863cd-c445-4102-9357-dcfe4f58e73c.png">
+
+<img width="1353" alt="Screenshot 2022-05-05 at 8 39 38 PM" src="https://user-images.githubusercontent.com/91433792/167049042-db1b4a9c-2210-443d-a322-5601cf567b3b.png">
+
+
 **LINKS**
 
+Dasboard Link: https://tinyurl.com/2ppaysku 
+
 **REFERENCES**
+
+• https://www.kaggle.com/code/nowingkim/analysis-clustering-rfm-model-with-sqlite 
+• https://www.kaggle.com/code/yacinerouizi/e-commerce-customer-segmentation 
+• https://www.kaggle.com/code/salvadormarquez/clustering-consumers-by-lifetime-value
+
 
